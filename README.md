@@ -1,4 +1,4 @@
-# Recomendacion de Series y canales de YouTube
+# Recomendacion de Canciones
 
 ## Canales YouTube
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
@@ -10,3 +10,8 @@
 
 ## Series
 * date un vlog canal de youtube
+
+## Canciones
+* Holiday
+* YRN
+* de green day
